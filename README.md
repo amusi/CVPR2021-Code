@@ -24,6 +24,11 @@
 
 # 不确定中没中
 
+**Scan2Cap: Context-aware Dense Captioning in RGB-D Scans**
+
+- Paper: https://arxiv.org/abs/2012.02206
+- Code: https://github.com/daveredrum/Scan2Cap
+
 **CT Film Recovery via Disentangling Geometric Deformation and Photometric Degradation: Simulated Datasets and Deep Models**
 
 - Paper: none
