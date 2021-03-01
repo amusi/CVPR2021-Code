@@ -14,18 +14,37 @@
 
 ## 【CVPR 2021 论文开源目录】
 
-- [实例分割](#Instance-Segmentation)
-
+- [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [图像恢复(Image Restoration)](#Image-Restoration)
+- [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [不确定中没中(Not Sure)](#Not-Sure)
 
 <a name="Instance-Segmentation"></a>
 
-# 实例分割
+# 实例分割(Instance Segmentation)
 
 **Zero-shot instance segmentation（Not Sure）**
 
 - Paper: None
 - Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
+
+<a name="Image-Restoration"></a>
+
+# 图像恢复(Image Restoration)
+
+**Multi-Stage Progressive Image Restoration**
+
+- Paper: https://arxiv.org/abs/2102.02808
+- Code: https://github.com/swz30/MPRNet
+
+<a name="3D-PointCloud"></a>
+
+# 3D点云配准(3D Point Cloud Registration)
+
+**PREDATOR: Registration of 3D Point Clouds with Low Overlap**
+
+- Paper: https://arxiv.org/abs/2011.13005
+- Code: https://github.com/ShengyuH/OverlapPredator
 
 <a name="Not-Sure"></a>
 
