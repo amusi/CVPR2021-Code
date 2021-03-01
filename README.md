@@ -1,5 +1,5 @@
 # CVPR2021-Code
-[CVPR 2021](http://cvpr2021.thecvf.com/) 论文开源项目(paper with code)合集。
+[CVPR 2021](http://cvpr2021.thecvf.com/) 论文开源项目(paper with code)合集！CVPR 2021 收录列表：http://luthuli.cs.uiuc.edu/~daf/accepted_paper_ids.txt
 
 注1：等 **February 28, 2021** 开奖后，欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！
 
@@ -14,11 +14,18 @@
 
 ## 【CVPR 2021 论文开源目录】
 
+- [实例分割](#Instance-Segmentation)
+
 - [不确定中没中(Not Sure)](#Not-Sure)
 
+<a name="Instance-Segmentation"></a>
 
+# 实例分割
 
+**Zero-shot instance segmentation（Not Sure）**
 
+- Paper: None
+- Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
 
 <a name="Not-Sure"></a>
 
@@ -85,11 +92,7 @@ https://github.com/gillesflash/CVPR2021
 
 https://github.com/anonymous-submission1991/BaLeNAS
 
-https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
-
 https://github.com/cvpr2021dcb/cvpr2021dcb
-
-https://github.com/CVPR2021-289/CVPR2021-289
 
 https://github.com/anonymousauthorCV/CVPR2021_PaperID_8578
 
