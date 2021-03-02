@@ -16,6 +16,7 @@
 
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [图像恢复(Image Restoration)](#Image-Restoration)
+- [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [不确定中没中(Not Sure)](#Not-Sure)
 
@@ -36,6 +37,15 @@
 
 - Paper: https://arxiv.org/abs/2102.02808
 - Code: https://github.com/swz30/MPRNet
+
+<a name="3D-Object-Detection"></a>
+
+# 3D目标检测(3D Object Detection)
+
+**Categorical Depth Distribution Network for Monocular 3D Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.01100
+- Code: None
 
 <a name="3D-PointCloud"></a>
 
