@@ -14,8 +14,9 @@
 
 ## 【CVPR 2021 论文开源目录】
 
-- Backbone
+- [Backbone](#Backbone)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
+- [人脸活体检测(Face Anti-Spoofing)](#Face Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
@@ -38,6 +39,15 @@
 
 - Paper: None
 - Code: https://github.com/CVPR2021-pape-id-1395/CVPR2021-paper-id-1395
+
+<a name=" Face Anti-Spoofing"></a>
+
+# 人脸活体检测
+
+**Cross Modal Focal Loss for RGBD Face Anti-Spoofing**
+
+- Paper: https://arxiv.org/abs/2103.00948
+- Code: None
 
 <a name="Image-Restoration"></a>
 
