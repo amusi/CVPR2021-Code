@@ -15,6 +15,7 @@
 ## 【CVPR 2021 论文开源目录】
 
 - [Backbone](#Backbone)
+- [自监督(Self-Supervised)](#Self-Supervised)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
@@ -30,6 +31,15 @@
 
 - Paper: https://arxiv.org/abs/2101.03697
 - Code: https://github.com/DingXiaoH/RepVGG
+
+<a name="Self-Supervised"></a>
+
+# 自监督
+
+**Dense Contrastive Learning for Self-Supervised Visual Pre-Training**
+
+- Paper: https://arxiv.org/abs/2011.09157
+- Code: https://github.com/WXinlong/DenseCL
 
 <a name="Instance-Segmentation"></a>
 
