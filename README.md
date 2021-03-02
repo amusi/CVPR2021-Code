@@ -14,11 +14,21 @@
 
 ## 【CVPR 2021 论文开源目录】
 
+- Backbone
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [不确定中没中(Not Sure)](#Not-Sure)
+
+<a name="Backbone"></a>
+
+# Backbone
+
+**RepVGG: Making VGG-style ConvNets Great Again**
+
+- Paper: https://arxiv.org/abs/2101.03697
+- Code: https://github.com/DingXiaoH/RepVGG
 
 <a name="Instance-Segmentation"></a>
 
