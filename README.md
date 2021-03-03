@@ -15,12 +15,14 @@
 ## 【CVPR 2021 论文开源目录】
 
 - [Backbone](#Backbone)
+- [GAN](#GAN)
 - [自监督(Self-Supervised)](#Self-Supervised)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
+- [阴影去除(Shadow Removal)](#Shadow-Removal)
 - [不确定中没中(Not Sure)](#Not-Sure)
 
 <a name="Backbone"></a>
@@ -31,6 +33,15 @@
 
 - Paper: https://arxiv.org/abs/2101.03697
 - Code: https://github.com/DingXiaoH/RepVGG
+
+<a name="GAN"></a>
+
+# GAN
+
+**Image-to-image Translation via Hierarchical Style Disentanglement**
+
+- Paper: https://arxiv.org/abs/2103.01456
+- Code: https://github.com/imlixinyang/HiSD
 
 <a name="Self-Supervised"></a>
 
@@ -85,6 +96,15 @@
 
 - Paper: https://arxiv.org/abs/2011.13005
 - Code: https://github.com/ShengyuH/OverlapPredator
+
+<a name="Shadow-Removal"></a>
+
+# 阴影去除(Shadow Removal)
+
+**Auto-Exposure Fusion for Single-Image Shadow Removal**
+
+- Paper: https://arxiv.org/abs/2103.01255
+- Code: https://github.com/tsingqguo/exposure-fusion-shadow-removal
 
 <a name="Not-Sure"></a>
 
