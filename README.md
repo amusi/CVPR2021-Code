@@ -23,6 +23,8 @@
 - [3D目标检测(3D Object Detection)](#3D-Object-Detection)
 - [3D点云配准(3D Point Cloud Registration)](#3D-PointCloud)
 - [阴影去除(Shadow Removal)](#Shadow-Removal)
+- [数据集(Datasets)](#Datasets)
+- [其他(Others)](#Others)
 - [不确定中没中(Not Sure)](#Not-Sure)
 
 <a name="Backbone"></a>
@@ -105,6 +107,28 @@
 
 - Paper: https://arxiv.org/abs/2103.01255
 - Code: https://github.com/tsingqguo/exposure-fusion-shadow-removal
+
+<a name="Datasets"></a>
+
+# 数据集(Datasets)
+
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+- Paper: https://arxiv.org/abs/2103.01353
+- Code: http://rl.uni-freiburg.de/research/multimodal-distill
+
+- Dataset: http://rl.uni-freiburg.de/research/multimodal-distill
+
+<a name="Others"></a>
+
+# 其他(Others)
+
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+- Paper: https://arxiv.org/abs/2103.01353
+- Code: http://rl.uni-freiburg.de/research/multimodal-distill
+
+- Dataset: http://rl.uni-freiburg.de/research/multimodal-distill
 
 <a name="Not-Sure"></a>
 
