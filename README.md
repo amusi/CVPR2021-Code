@@ -17,6 +17,7 @@
 - [Backbone](#Backbone)
 - [GAN](#GAN)
 - [自监督(Self-Supervised)](#Self-Supervised)
+- [目标检测(Object Detection)](#Object-Detection)
 - [实例分割(Instance Segmentation)](#Instance-Segmentation)
 - [人脸活体检测(Face Anti-Spoofing)](#Face Anti-Spoofing)
 - [图像恢复(Image Restoration)](#Image-Restoration)
@@ -53,6 +54,15 @@
 
 - Paper: https://arxiv.org/abs/2011.09157
 - Code: https://github.com/WXinlong/DenseCL
+
+<a name="Object-Detection"></a>
+
+# 目标检测(Object Detection)
+
+**Towards Open World Object Detection**
+
+- Paper: https://arxiv.org/abs/2103.02603
+- Code: https://github.com/JosephKJ/OWOD
 
 <a name="Instance-Segmentation"></a>
 
